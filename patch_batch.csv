@@ -1,0 +1,7 @@
+System,Missing Patch,Severity,Exposure,CVSS Score
+Web Server,OpenSSL Update,High,Internet,9.8
+Database Server,MySQL Patch,Medium,Internal,6.5
+Mail Server,Postfix Update,High,Internet,8.9
+App Server,NodeJS Update,Low,Internal,3.2
+Cloud Gateway,Nginx Patch,High,Internet,9.1
+Backup Server,Kernel Update,Medium,Internal,5.4
